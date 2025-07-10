@@ -25,8 +25,8 @@ pip install telebot requests
 start the main.py and enter telegram bot token & or more
 
 4. **Set it up:**
-
 Set up actions setting and DO numbers
+
 ---
 
 ## Requirements
